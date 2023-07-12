@@ -2,10 +2,10 @@
 
 /**
  * _pow_recursion - Returns the value of x raised to the power of y
- * @x: the value to multiply
- * @y: the times to multiply the value
+ * @x: the value to raise
+ * @y: power
  *
- * Return: the value multiplied y times
+ * Return: result of the power
  */
 int _pow_recursion(int x, int y)
 {
