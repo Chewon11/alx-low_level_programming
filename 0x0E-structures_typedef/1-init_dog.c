@@ -1,6 +1,5 @@
 #include <stdlib>
 #include "dog.h"
-
 /**
  * init_dog - initializes a variable of type to struct dog
  * @d: pointer to struct dog to initialize
